@@ -1,11 +1,3 @@
-# Spis treści
-
-- [Regresja liniowa i logistyczna](lab1/lab_1.ipynb)
-- [Lasy decyzyjne i boosting](lab2/lab_2.ipynb)
-- [Sieci neuronowe](lab3/lab_3.ipynb)
-- [Detekcja obiektów](lab4/lab_4.ipynb)
-- [Przetwarzanie języka naturalnego](lab5/lab_5.ipynb)
-
 # Opis laboratoriów
 
 ## [Regresja liniowa i logistyczna](lab1/lab_1.ipynb)
